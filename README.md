@@ -1,2 +1,2 @@
-# desing-portfolio
+# design-portfolio
 Frontend Mentor project -- Design Portfolio
